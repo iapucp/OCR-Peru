@@ -1,4 +1,4 @@
-# peruvian-languages-dataset
+# OCR-Peru
 
 
 
