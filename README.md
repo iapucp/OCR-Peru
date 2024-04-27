@@ -1,4 +1,4 @@
-# peruvian-endangered-languages-dataset
+# peruvian-languages-dataset
 
 
 
