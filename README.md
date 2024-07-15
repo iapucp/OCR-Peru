@@ -8,7 +8,7 @@ The current focus on resource-rich languages poses a challenge to linguistic div
 
 If you use this dataset, please use the following cite:
 
-'''
+```
 @inproceedings{sanchez-carrera-etal-2024-unlocking,
     title = "Unlocking Knowledge with {OCR}-Driven Document Digitization for {P}eruvian Indigenous Languages",
     author = "Sanchez Carrera, Shadya  and
@@ -29,8 +29,7 @@ If you use this dataset, please use the following cite:
     url = "https://aclanthology.org/2024.americasnlp-1.11",
     pages = "103--111",
 }
-
-'''
+```
 
 ## Resources
 
