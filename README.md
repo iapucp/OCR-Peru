@@ -1,6 +1,38 @@
-# OCR-Peru
+# OCR-Peru: Unlocking Knowledge with OCR-Driven Document Digitization for Peruvian Indigenous Languages
 
+## Abstract
 
+The current focus on resource-rich languages poses a challenge to linguistic diversity, affecting minority languages with limited digital presence and relatively old published and unpublished resources. In addressing this issue, this study targets the digitalization of old scanned textbooks written in four Peruvian indigenous languages (Ash{\'a}ninka, Shipibo-Konibo, Yanesha, and Yine) using Optical Character Recognition (OCR) technology. This is complemented with text correction methods to minimize extraction errors. Contributions include the creation of an annotated dataset with 454 scanned page images, for a rigorous evaluation, and the development of a module to correct OCR-generated transcription alignments.
+
+## Citation
+
+If you use this dataset, please use the following cite:
+
+'''
+@inproceedings{sanchez-carrera-etal-2024-unlocking,
+    title = "Unlocking Knowledge with {OCR}-Driven Document Digitization for {P}eruvian Indigenous Languages",
+    author = "Sanchez Carrera, Shadya  and
+      Zariquiey, Roberto  and
+      Oncevay, Arturo",
+    editor = "Mager, Manuel  and
+      Ebrahimi, Abteen  and
+      Rijhwani, Shruti  and
+      Oncevay, Arturo  and
+      Chiruzzo, Luis  and
+      Pugh, Robert  and
+      von der Wense, Katharina",
+    booktitle = "Proceedings of the 4th Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.americasnlp-1.11",
+    pages = "103--111",
+}
+
+'''
+
+## Resources
 
 |Id  | Language      | Title | Year  | Link |
 |:------------:|:-------------:|:---------------:|:-----:| -----|
